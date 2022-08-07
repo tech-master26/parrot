@@ -12,9 +12,9 @@ With the help of this tool you can change your termux shell to look like parrot 
 
 `$ pkg install git -y`
 
-`$ git clone https://github.com/termuxprofessor/parrotshell`
+`$ git clone https://github.com/sirajul26/parrot
 
-`$ cd parrotshell`
+`$ cd parrot`
 
 `$ chmod +x *`
 
@@ -27,22 +27,22 @@ Now Restart Termux.
 
 `$ cd $HOME`
 
-`$ cd parrotshell`
+`$ cd parrot`
 
 `$ bash uninstall.sh`
 Now Restart Termux
 
 ## Watch Video Tutorial From Below.
-* www.youtube.com/c/TermuxProfessor
+* www.youtube.com/c/Android Tips-&-trick's
 ---
 
 <p align="center">
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
+  <a href="https://www.youtube.com/c/Android Tips-&-trick's">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
-  <a href="https://www.instagram.com/termuxprofessor/">
+  <a href="https://www.instagram.com/freelancer.sirajul/">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
 </p>
