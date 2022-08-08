@@ -17,7 +17,7 @@ echo -e "                  \ \     "
 echo -e "                   '-'    \e[1;97m "
 echo ""
 echo -e "\e[1;91m [+] YouTube: \e[1;92mAndroidTips-&-trick's"
-echo -e "\e[1;91m [+] Github: \e[1;92msirajul26\e[1;97m"
+echo -e "\e[1;91m [+] Github : \e[1;92msirajul26\e[1;97m"
 echo ""
 read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
 
